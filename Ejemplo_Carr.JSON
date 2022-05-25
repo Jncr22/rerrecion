@@ -1,0 +1,22 @@
+{
+    "nombre": "Jose Angel Carrillo Ruiz",
+    "ocupacion": "Estudiante",
+    "lugarOrigen": "Veracruz",
+    "descripcion": "Estudiante de Desarrollo de Software Multiplataforma, con un gran interés en Desarrollo Mobil. Con capacidad para aprender y aplicar mis conocimientos al ámbito profesional. En busca de una oportunidad laboral en la que pueda adaptar, desarrollar o mejorar mis habilidades adquiridas durante mi tiempo de estudio.",
+    "contactInfo": [{
+        "numero": "9841345312",
+        "correo": "angel224.jncr10@gmail.com"
+    }],
+
+    "educacion": [{
+        "secundaria": "Secundaria Tecnica Industrial Num. 73",
+        "preparatoria": "Colegio de Bachilleres Del Estado de Veracruz"
+    }],
+    "habilidades": [{
+        "programacion": "Java , C++ , Python, C#"
+
+    }],
+    "lenguaje": [{
+        "idiomas": "Ingles , Español"
+    }]
+}
